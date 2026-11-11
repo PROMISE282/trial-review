@@ -11,7 +11,7 @@
       "name": "trial-review",
       "source": "./plugins/trial-review",
       "description": "[무료판] 수정안·변경안·정책안을 배심원 5명 투표로 평가해 적용 순위를 냅니다. 대화에 붙여넣은 텍스트만 평가하며 파일은 읽지 않습니다.",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "category": "productivity",
       "keywords": ["review", "pm", "decision", "jury", "free"]
     }
