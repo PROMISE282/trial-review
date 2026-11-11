@@ -1,0 +1,8 @@
+{
+  "name": "trial-review",
+  "version": "1.0.0",
+  "description": "[무료판] 수정안을 PM/컨펌매니저 재판 형식으로 평가합니다. 배심원 5명 고정, 1차(텍스트) 평가만 하며 대화에 붙여넣은 안건만 다룹니다.",
+  "author": { "name": "PROMISE282" },
+  "license": "MIT",
+  "keywords": ["review", "pm", "decision", "jury", "free"]
+}
