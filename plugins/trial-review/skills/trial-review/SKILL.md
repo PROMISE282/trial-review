@@ -1,6 +1,11 @@
 ---
 name: trial-review
 description: 사용자가 "재판 형식으로", "재판해줘", "배심원", "찬성 비율로 순위"(영어 "trial review", "jury vote")를 말하거나, 여러 수정안·변경안·정책안 중 무엇을 적용할지 우선순위로 가려 달라고 할 때 사용한다. 무료판이다. 배심원 5명, 1차 평가만 하며 대화에 붙여넣은 안건 텍스트만 평가한다.
+license: MIT
+compatibility: 도구 없이 대화 텍스트만 평가합니다. 파일·웹·명령 실행이 필요 없습니다.
+metadata:
+  author: PROMISE282
+  version: "2.0.0"
 ---
 
 # 재판 형식 수정사항 평가 (무료판)
