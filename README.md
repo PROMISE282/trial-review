@@ -6,6 +6,8 @@
 
 소개·동작 방식·판정 기준은 [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction)에 있습니다. 이 저장소는 플러그인 파일만 담습니다.
 
+피드백은 이 저장소의 [GitHub Issues](https://github.com/PROMISE282/trial-review/issues)나 promise211217@gmail.com으로 보내 주세요.
+
 ## 되는 것
 
 - 대화에 붙여넣은 수정안·변경안·정책안을 재판 형식으로 평가하고 찬성 비율 순위 표를 냅니다.

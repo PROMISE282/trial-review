@@ -6,6 +6,8 @@
 
 For the introduction, how it works and the judging criteria, see [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction). This repository contains only the plugin files.
 
+Please send feedback through [GitHub Issues](https://github.com/PROMISE282/trial-review/issues) in this repository or by email to promise211217@gmail.com.
+
 ## What it does
 
 - Evaluates proposed fixes, changes or policies pasted into the conversation in a trial format and outputs a ranking table by approval ratio.
