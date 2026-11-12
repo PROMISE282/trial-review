@@ -26,7 +26,7 @@ For the introduction, how it works and the judging criteria, see [trial-review-i
 | Evaluation | Round 1 only (before applying) | Round 1 + round 2 after applying |
 | Input | Text pasted into the conversation only | Includes reading code repositories and files |
 | Local changes | Does not read, create or modify files | Temporary application in a working copy; applied after approval |
-| Agenda count | 5 per run | Summary format; handles 25 or more |
+| Agenda count | No limit | Summary format; handles 25 or more |
 
 > These limits are set by the skill instructions (`SKILL.md`). They do not technically block Claude Code's tool permissions, so to reliably block tool use, also use Claude Code's permission settings.
 
