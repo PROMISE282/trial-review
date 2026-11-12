@@ -1,12 +1,12 @@
-# trial-review (무료판)
+# trial-review
 
 [한국어](README.md) | [English](README.en.md)
 
-> 여러 수정안 중 무엇부터 적용할지, 배심원 5명의 모의 투표로 순위를 내 주는 Claude 스킬의 **무료판**입니다.
+> 여러 수정안 중 무엇부터 적용할지, 배심원 5명의 모의 투표로 순위를 내 주는 Claude 스킬입니다.
 
-소개·동작 방식·판정 기준은 [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction)에 있습니다. 이 저장소는 무료판 플러그인 파일만 담습니다.
+소개·동작 방식·판정 기준은 [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction)에 있습니다. 이 저장소는 플러그인 파일만 담습니다.
 
-## 무료판에서 되는 것
+## 되는 것
 
 - 대화에 붙여넣은 수정안·변경안·정책안을 재판 형식으로 평가하고 찬성 비율 순위 표를 냅니다.
 - 재판장은 PM이고 배심원은 안건 유형별로 고정된 5명입니다.
@@ -17,9 +17,9 @@
 | 서버·DB·API·인프라 | PM, BE, 보안, QA, 운영 |
 | 정책·기획 | PM, 재무, 운영, CS, 일반 사용자 |
 
-## 무료판의 제약
+## 제약
 
-| 항목 | 무료판 | Pro판 |
+| 항목 | 이 플러그인 | Pro판 |
 | --- | --- | --- |
 | 배심원 | 5명 고정 | 안건별 최대 8명, 직무·대상 사용자 선택 |
 | 법무 관할 | 법무 직무 없음("법무 검토 필요"만 표시) | 한국 기본, 신호가 있으면 관할 추가 |

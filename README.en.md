@@ -1,12 +1,12 @@
-# trial-review (Free Edition)
+# trial-review
 
 [한국어](README.md) | [English](README.en.md)
 
-> The **free edition** of a Claude skill that ranks several proposed changes by a mock vote of 5 jurors, so you can decide which to apply first.
+> A Claude skill that ranks several proposed changes by a mock vote of 5 jurors, so you can decide which to apply first.
 
-For the introduction, how it works and the judging criteria, see [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction). This repository contains only the free-edition plugin files.
+For the introduction, how it works and the judging criteria, see [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction). This repository contains only the plugin files.
 
-## What the free edition does
+## What it does
 
 - Evaluates proposed fixes, changes or policies pasted into the conversation in a trial format and outputs a ranking table by approval ratio.
 - The presiding judge is the PM, and the jury is a fixed set of 5 depending on the type of issue.
@@ -17,9 +17,9 @@ For the introduction, how it works and the judging criteria, see [trial-review-i
 | Server / DB / API / infrastructure | PM, BE, security, QA, operations |
 | Policy / planning | PM, finance, operations, CS, general user |
 
-## Free edition limits
+## Limits
 
-| Item | Free | Pro |
+| Item | This plugin | Pro |
 | --- | --- | --- |
 | Jurors | Fixed at 5 | Up to 8 per agenda, with selectable job roles and target users |
 | Legal jurisdiction | No legal role (only flags "legal review needed") | Korea by default; adds jurisdictions when signals are present |
