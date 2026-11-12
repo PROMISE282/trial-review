@@ -1,5 +1,7 @@
 # trial-review (무료판)
 
+[한국어](README.md) | [English](README.en.md)
+
 > 여러 수정안 중 무엇부터 적용할지, 배심원 5명의 모의 투표로 순위를 내 주는 Claude 스킬의 **무료판**입니다.
 
 소개·동작 방식·판정 기준은 [trial-review-introduction](https://github.com/PROMISE282/trial-review-introduction)에 있습니다. 이 저장소는 무료판 플러그인 파일만 담습니다.
@@ -64,7 +66,3 @@ npx skills add PROMISE282/trial-review
 - 한 모델이 직무 관점을 흉내 낸 **모의 투표**이며 독립 표본이 아닙니다. 실제 사람의 투표나 통계적 근거가 아닙니다.
 - 법무 의견은 제공하지 않으며 법률 자문이 아닙니다.
 - 기술 결함 검출은 코드 리뷰와 CI의 몫입니다.
-
-## 라이선스
-
-MIT
