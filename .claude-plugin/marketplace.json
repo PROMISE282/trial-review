@@ -10,8 +10,8 @@
     {
       "name": "trial-review",
       "source": "./plugins/trial-review",
-      "description": "수정안·변경안·정책안을 배심원 5명 투표로 평가해 적용 순위를 냅니다. 대화에 붙여넣은 텍스트만 평가하며 파일은 읽지 않습니다.",
-      "version": "2.0.0",
+      "description": "수정안·변경안·정책안을 재판 형식으로 평가: 직무·대상 사용자 페르소나와 안건별 배심원 배치, 2회 평가, 찬성 비율 적용 순위",
+      "version": "2.0.1",
       "category": "productivity",
       "keywords": ["review", "pm", "decision", "jury"]
     }

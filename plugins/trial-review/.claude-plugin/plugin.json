@@ -1,7 +1,7 @@
 {
   "name": "trial-review",
-  "version": "2.0.0",
-  "description": "수정안을 PM/컨펌매니저 재판 형식으로 평가합니다. 배심원 5명 고정, 1차(텍스트) 평가만 하며 대화에 붙여넣은 안건만 다룹니다.",
+  "version": "2.0.1",
+  "description": "수정사항을 PM/컨펌매니저 관점의 재판 형식으로 평가합니다. 직무·대상 사용자 페르소나와 안건별 배심원 배치로 투표하고, 찬성 비율 적용 순위를 출력합니다.",
   "author": { "name": "PROMISE282" },
-  "keywords": ["review", "pm", "decision", "jury"]
+  "keywords": ["review", "pm", "decision", "jury", "persona"]
 }
